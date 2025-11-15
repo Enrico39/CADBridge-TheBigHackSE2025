@@ -306,3 +306,4 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/unity,macos,windows,python
+Python-Converter/converted_obj/*.obj
